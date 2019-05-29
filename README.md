@@ -1,5 +1,5 @@
 # Introducción a los Sistemas Distribuidos (75.43)
-## Trabajo Práctico N◦2: BGP
+## Trabajo Práctico N°2: BGP
 
 ### Esteban Carisimo, Francisco López Destain y Pablo Gotuzzo
 ### Facultad de Ingeniería, Universidad de Buenos Aires
